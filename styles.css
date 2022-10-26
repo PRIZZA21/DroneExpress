@@ -1,0 +1,143 @@
+body{
+  font-family: "Montserrat";
+}
+
+
+#title{
+  background-color: #7DE5ED;
+  color: #fff;
+
+}
+.meet{
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid
+{
+  padding: 3% 15%;
+}
+/* navigation bar */
+.navbar-brand{
+  font-family:"Ubuntu";
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+}
+/* Download button */
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+/* title-image */
+.title-image{
+  width:75%;
+
+}
+/* Features */
+#features{
+  padding:10% 0;
+background-color: #fff;
+}
+
+
+.row{
+  display: flex;
+  justify-content: center;
+}
+h3{
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.fa-circle-check{
+  color: #81C6E8;
+}
+.fa-bullseye{
+  color: #81C6E8;
+}
+.fa-indian-rupee-sign{
+  color: #81C6E8;
+}
+p{
+  color: #8f8f8f;
+}
+.fa-circle-check:hover{
+  color:#5DA7DB;
+}
+.fa-bullseye:hover{
+  color:#5DA7DB;
+}
+.fa-indian-rupee-sign:hover{
+  color:#5DA7DB;
+}
+/* testimonials */
+#testimonials{
+
+  text-align: center;
+  background-color: #7DE5ED;
+  color: #fff;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+/* press */
+#press{
+  background-color: #7DE5ED;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.press-logo{
+  width: 15%;
+  margin:20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+/* card */
+ .card{
+  margin:0 4%;
+}
+#pricing{
+  padding:100px;
+  text-align: center;
+}
+/* call to action */
+#cta{
+  background-color: #7DE5ED;
+  padding:5rem;
+  text-align: center;
+
+}
+.end{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  color: #fff;
+
+}
+/* footer */
+#footer{
+  text-align: center;
+  padding: 5%;
+}
+.logo
+{
+  margin:3px;
+}
